@@ -9,4 +9,8 @@ week02
   git commit -m "v0"
   git log
   git checkout hashcode
-  git checkout- 
+  git checkout-
+  git branch -M main
+  git remote add origin https://github.com/jeonhyunjin04/test
+  git remote -v
+  git push -u origin main
