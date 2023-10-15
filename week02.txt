@@ -1,6 +1,6 @@
 week02
 - linux command : ls, ls -al, pwd, cd .git, cd .., echo "blahblahblah" >> README.md, cat README.md
-- git command
+- git command :
   git init
   git status
   git add week01.txt
