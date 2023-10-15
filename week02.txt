@@ -14,3 +14,4 @@ week02
   git remote add origin https://github.com/jeonhyunjin04/test
   git remote -v
   git push -u origin main
+
